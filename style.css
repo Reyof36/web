@@ -1,0 +1,228 @@
+
+* {box-sizing: border-box;}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color: white ;
+
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #efe8d9;
+  padding: 15px;
+  border-bottom: 1px solid Lightblue;
+
+}
+
+.navbar a {
+  float: right ;
+  color: Salmon;
+  font-weight:normal;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.navbar a:hover {
+  background-color: #efe8d9;
+  color: black;
+}
+.navbar a.active {
+  background-color: #efe8d9;
+  color: black;
+}
+.navbar #xx{
+  float: left;
+  padding: 3px;
+
+}
+
+/* conaiter of body*/
+div.container-flex {
+  background-color: #fcf9f5;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-width: 80%;
+  padding: 20px;
+}
+
+
+
+/* design container comment */
+div.containerComm {
+  background-color: #fcf9f5;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 900px;
+  border:none;
+}
+.comment {
+  border: 1px ridge Lightblue;
+}
+
+#comment_form {
+
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 900px;
+  border: none;
+}
+
+.form-group .form-control {
+  width: 100%;
+  padding: 12px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-control {
+  border: 1px solid gray;
+
+}
+
+
+#display_comment {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 900px;
+  border: 1px solid gray;
+}
+
+
+#submit {
+  background-color: LightSalmon;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 12px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/*column card*/
+/* Float four columns side by side */
+.column {
+   float: left;
+   width:50%;
+   padding:15px;
+   text-align: center;
+ }
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 20px;
+      }
+
+/* Clear floats after the columns */
+.row:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  background-color: #fcf9f5;
+  border: 1px solid Lightblue;
+  width: 80%;
+  margin: 15px;
+  padding: 5px;
+}
+#imgCard{
+  width: 100%;
+  height: 200px;
+}
+
+
+/*design horizontal Line */
+ hr{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-style: dashed;
+   border-width: 1px;
+   border-color:salmon;
+}
+/* style breedcrumb*/
+.breedcrumb {
+  padding: 10px 16px;
+  list-style: none;
+
+  border: 1px dotted Lightgray;
+}
+.breedcrumb li{
+  /* items side by side*/
+  display: inline;
+  font-size: 18px;
+  color: black;
+}
+/*Add slash symbol (/) befor/behibd each list item*/
+.breedcrumb li+li:before{
+  padding: 8px;
+  color: black;
+  content: "/"
+}
+.breedcrumb li a {
+  color: Salmon;
+  text-decoration: none;
+}
+/*Add color on mouse-over*/
+.breedcrumb li a:hover{
+  color: #01447e;
+  text-decoration: underline;
+}
+
+
+
+
+
+/*footer*/
+.footer {
+  position: relative;
+  left:0;
+  bottom: 0;
+  width: 100%;
+  height: 160px;
+  background-color: #efe8d9 ;
+  color: white;
+  text-align:center;
+  padding: 12px 15px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  border-top: 1px solid Lightblue;
+}
