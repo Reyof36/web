@@ -33,17 +33,17 @@
 
 <div class="column">
   <div class="card">
-    <img src="style/dp2.jpg" alt="cat" id="imgCard" >
-    <h3> How To Stop My Cat From Bullying My Other Cat?</h3>
+    <img src="style/CatMeow.jpg" alt="Cat Meow" id="imgCard" >
+    <h3> Why Does My Cat Meow At Night?</h3>
   <p> <a href="post3Behaviors.php" style="color: black;"> Read More  </a> </p>
   </div>
 </div>
 
 <div class="column">
   <div class="card">
-    <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-      <h3> XXXXXXXXXXXXXX</h3>
-    <p> <a href="aboutUsPage.php" style="color: black;"> Read More  </a> </p>
+    <img src="style/CatScratch.jpg" alt="Cat Scratch The Wall" id="imgCard" >
+      <h3> Why Does My Cat Scratch The Wall?</h3>
+    <p> <a href="post4Behaviors.php" style="color: black;"> Read More  </a> </p>
   </div>
 </div>
 
