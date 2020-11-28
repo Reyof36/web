@@ -1,17 +1,16 @@
 <?php
 
 //fetch_comment.php
-$db = mysqli_connect("localhost", "root", "", "comment");
 
-  mysqli_query($db,"CREATE TABLE IF NOT EXISTS tbl_comment(
+
+$connect= new PDO('mysql:host=localhost;dbname=testing', 'root', '');
+
+  mysqli_query($connect,"CREATE TABLE IF NOT EXISTS tbl_comment(
     comment_id AUTO_INCREMENT NOT NULL PRIMARY KEY (id),
     parent_comment_id  (id),
     comment   VARCHAR(255),
     comment_sender_name  VARCHAR(40) NOT NULL,
     date TIMESTAMP  NOT NULL )");
-
-$connect= new PDO('mysql:host=localhost;dbname=comment', 'root', '');
-
 $query = "
 SELECT * FROM tbl_comment
 WHERE parent_comment_id = '0'
