@@ -35,7 +35,7 @@
   <div class="card">
     <img src="style/CatMeow.jpg" alt="Cat Meow" id="imgCard" >
     <h3> Why Does My Cat Meow At Night?</h3>
-  <p> <a href="post3Behaviors.php" style="color: black;"> Read More  </a> </p>
+  <p> <a href="post3Behaviors.php" style="color: black;"> Read More >  </a> </p>
   </div>
 </div>
 
@@ -43,7 +43,7 @@
   <div class="card">
     <img src="style/CatScratch.jpg" alt="Cat Scratch The Wall" id="imgCard" >
       <h3> Why Does My Cat Scratch The Wall?</h3>
-    <p> <a href="post4Behaviors.php" style="color: black;"> Read More  </a> </p>
+    <p> <a href="post4Behaviors.php" style="color: black;"> Read More > </a> </p>
   </div>
 </div>
 
