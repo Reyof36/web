@@ -50,7 +50,7 @@
     Contact us: <a  href="mailto:petcat134@gmail.com" style="color:Salmon;">petcat134@gmail.com</a><br>
 
     <br><p style="float:left;">Follow us on Instagram:
-    <p> <a href="#"> <img src="style/icon.png" alt="iconInstegram" width="23" height="23"></a></p>  </p>
+    <p> <a href="https://www.instagram.com/p/CHz7rGJgO8i/?igshid=a8dcpgpte37y"> <img src="style/icon.png" alt="iconInstegram" width="23" height="23"></a></p>  </p>
     <br>
     </address>
 
