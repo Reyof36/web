@@ -33,17 +33,17 @@
 
 <div class="column">
   <div class="card">
-    <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-    <h3> XXXXXXXXXXXXXX</h3>
-  <p> <a href="aboutUsPage.php" style="color: black;"> Read More >  </a> </p>
+    <img src="style/sick cat.jpg" alt="cat" id="imgCard" >
+    <h3> How to take care of a cat when it is sick?</h3>
+  <p> <a href="post3Care&Healthe.php" style="color: black;"> Read More >  </a> </p>
   </div>
 </div>
 
 <div class="column">
   <div class="card">
-    <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-      <h3> XXXXXXXXXXXXXX</h3>
-    <p> <a href="aboutUsPage.php" style="color: black;"> Read More >  </a> </p>
+    <img src="style/food cat.jpg" alt="cat" id="imgCard" >
+      <h3> What are the types of cat food?</h3>
+    <p> <a href="post4Care&Healthe.php" style="color: black;"> Read More >  </a> </p>
   </div>
 </div>
 
