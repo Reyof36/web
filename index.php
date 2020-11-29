@@ -135,4 +135,4 @@ function showSlides() {
 2- https://www.readersdigest.com.au -->
 <!--References of Code:
 1- W3schools.
-2- -->
+2- https://www.youtube.com/watch?v=7Gj_zWCHTIk&feature=youtu.be-->
