@@ -14,7 +14,8 @@
      <li> <a href="index.php"> Home </a> </li>
      <li> Products </li>
    </ul>
- <h1 style="font-size:17px; text-align:center;">These are some of the sites that sell products for your cat  </h1>
+ <br>
+ <p style="font-size:25px; text-align:center; font-family: Comic Sans MS;color:black;">Check out some sites that provide for your cat's needs  </p>
  <br>
 
 <div class="row">
@@ -28,9 +29,9 @@
 
 <div class="column">
   <div class="card">
-    <img src="style/11.jpg" alt="cat" id="imgCard" >
+    <img src="style/45.jpg" alt="cat" id="imgCard" >
     <h3> Dry Food  </h3>
-  <p> <a href="https://www.amazon.com.au/Hills-Science-Diet-Optimal-Chicken/dp/B07GBP8DBB/ref=sr_1_2?dchild=1&keywords=cat+food&qid=1606495954&sr=8-2" style="color: black;"> Click here   </a> </p>
+  <p> <a href="https://www.amazon.com.au/Food-Mini-Fish-Medley-1-2kg/dp/B07H231WN5/ref=sr_1_54?dchild=1&keywords=dry+food+cat&qid=1606640499&sr=8-54" style="color: black;"> Click here   </a> </p>
   </div>
 </div>
 
@@ -85,12 +86,10 @@
     <img src="style/17.jpg" alt="cat" id="imgCard" >
       <h3> Cat Collar </h3>
     <p> <a href="https://www.amazon.com.au/Ozpaw-Padded-Leather-Collar-Puppies/dp/B07TV484QK/ref=sr_1_6?dchild=1&keywords=cat+collar&qid=1606496351&sr=8-6" style="color: black;"> Click here </a> </p>
-  </div>
+ </div>
 </div>
-
 </div>
-
-      </div>
+</div>
   <br>
   <br>
   <hr>
