@@ -132,7 +132,9 @@ function showSlides() {
 
 <!--References of Content:
 1- https://pawsomekitty.com
-2- https://www.readersdigest.com.au -->
+2- https://www.readersdigest.com.au
+3-https://www.amazon.com.au/
+-->
 <!--References of Code:
 1- W3schools.
 2- https://www.youtube.com/watch?v=7Gj_zWCHTIk&feature=youtu.be-->
