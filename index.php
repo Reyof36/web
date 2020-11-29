@@ -62,46 +62,38 @@
 </div>
 
 
-  <div class="container-flex">
-
-
+ !--card column -->
+  <div class="container-flex" id="contentCard">
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-
-      <p> <a href="aboutUsPage.php">  <button style="width:100%; padding:15px; background-color:black; color:white; display: inline-block; cursor: pointer; text-align: center; font-size: 16px;"> Read More</button> </a> </p>
+      <img src="style/BHome1.jpg" alt="cat" id="imgCard" >
+        <h3>To Decide What Type of Cat is Right for You and Your Family</h3>
+      <p> <a href="BreedsCats.php"style="color: black;"> Click here > </a> </p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-
-      <p> <a href="aboutUsPage.php">  <button style="width:100%; padding:15px; background-color:black; color:white; display: inline-block; cursor: pointer; text-align: center; font-size: 16px;"> Read More</button> </a> </p>
+      <img src="style/c4.jpg" alt="cat" id="imgCard" >
+      <h3> To Get to know Everything about your Cat </h3>
+      <p> <a href="Behaviors.php"style="color: black;"> Click here > </a> </p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-
-      <p> <a href="aboutUsPage.php">  <button style="width:100%; padding:15px; background-color:black; color:white; display: inline-block; cursor: pointer; text-align: center; font-size: 16px;"> Read More</button> </a> </p>
+      <img src="style/CHome6.jpg" alt="cat" id="imgCard" >
+      <h3> To Get Tips to Keep your Cat Happy & healthy </h3>
+      <p> <a href="care&health.php" style="color: black;">  Click here > </button> </a> </p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-
-      <p> <a href="aboutUsPage.php">  <button style="width:100%; padding:15px; background-color:black; color:white; display: inline-block; cursor: pointer; text-align: center; font-size: 16px;"> Read More</button> </a> </p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img src="style/pc4.jpg" alt="cat" id="imgCard" >
-
-      <p> <a href="aboutUsPage.php">  <button style="width:100%; padding:15px; background-color:black; color:white; display: inline-block; cursor: pointer; text-align: center; font-size: 16px;"> Read More</button> </a> </p>
+      <img src="style/PHome.jpg" alt="cat" id="imgCard" >
+      <h3> If you Want to Browse the product for your Cat</h3>
+      <p> <a href="products.php" style="color: black;" >  Click here > </a> </p>
     </div>
   </div>
 </div>
