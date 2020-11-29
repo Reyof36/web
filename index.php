@@ -31,7 +31,7 @@
   display: inline-block;
 }
 .active {
-  background-color: #717171;;
+  background-color: #717171;
 }
 
 </style>
@@ -62,7 +62,7 @@
 </div>
 
 
- !--card column -->
+ <!--card column -->
   <div class="container-flex" id="contentCard">
 <div class="row">
   <div class="column">
@@ -96,10 +96,11 @@
       <p> <a href="products.php" style="color: black;" >  Click here > </a> </p>
     </div>
   </div>
+
 </div>
-  </div>
-  <br>
- <hr>
+</div>
+<br>
+<hr>
 <br>
 <br>
 
