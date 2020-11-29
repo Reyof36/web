@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+   body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+   }
+   * {
+      box-sizing: border-box;
+   }
+   .card {
+       background-image:url(./img1.jpeg)
+      color: white;
+      float: left;
+      width: calc(25% - 20px);
+      padding: 10px;
+      border-radius: 10px;
+      margin: 10px;
+      height: 200px;
+       font-size: 18px;
+       text-align: center;
+   }
+   .card p {
+      font-size: 18px;
+   }
+   .cardContainer:after {
+      content: "";
+      display: table;
+      clear: both;
+   }
+   @media screen and (max-width: 600px) {
+      .card {
+         width: 100%;
+      }
+   }
+    img{
+        width: 200px;
+        height: 200px;
+        border-radius: 10px;
+    }
+</style>
+</head>
+<body>
+<h2>information about cats</h2>
+<div class="cardContainer">
+    
+    <div class="card" >
+        <img src="img1.jpeg">
+        <h2>cats Vitamins</h2>
+        <a href="https://www.canina.de/en/Cats/Cat-Vitamin-Tablets.html" class="card-link">Read more ...> </a>
+    </div>
+    <div class="card" >
+        <img src="img2.jpeg">
+        <h2>Cats' actions and their meanings</h2>
+        <a href="https://www.purina.co.uk/cats/behaviour-and-training/understanding-cat-behaviour/cat-body-language" class="card-link">Read more ...></a>
+    </div>
+    <div class="card" >
+        <img src="img3.jpeg">
+        <h2>Fact about cats</h2>
+        <a href="https://traversemountainpetcare.com/fun-facts-and-information/fun-cat-facts-for-kids/" class="card-link">Read more ...></a>
+    </div>
+    <div class="card" >
+        <img src="img4.jpeg">
+        <h2>Causes of cats upset</h2>
+        <a href="https://www.thesprucepets.com/is-your-cat-sad-553922" class="card-link">Read more ...></a>
+    </div>  
+</div>
+</body>
+</html>
